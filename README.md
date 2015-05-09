@@ -1,2 +1,2 @@
-# all-comedy
-Find tour dates from several comedians.
+# gomedian
+Generic interface for finding comedian tour dates.
