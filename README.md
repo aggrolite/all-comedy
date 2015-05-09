@@ -59,3 +59,8 @@ func main() {
 	}
 }
 ```
+
+## TODO
+
+I'm thinking `gomedian` could support an extraction function which does not require XPath.
+This would make the library more useful to users who are not familiar with XPath. :-)
