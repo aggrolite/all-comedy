@@ -1,4 +1,4 @@
-package main
+package gomedian
 
 import (
 	"io/ioutil"
